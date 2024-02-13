@@ -1,0 +1,57 @@
+_repo: Los-nueve-libros-de-la-Historia-2-de-2_72754
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Pou i Puigserver, Bartomeu
+    aliases:
+    - Puigserver, Bartomeu Pou i
+    - Povius, Bartholomaeus
+    - Pou, Bartolomé
+    - Pou, Bartolome
+    - Ignatius, Philaeretus
+    - Philaeretus, Ignatius
+    - Pou, Barthélemi
+    - Pou, Barthelemi
+    birthdate: 1727
+    deathdate: 1802
+    gutenberg_agent_id: '56801'
+    url: http://www.gutenberg.org/2009/agents/56801
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Bartolom%C3%A9_Pou
+    - https://es.wikipedia.org/wiki/Bartolom%C3%A9_Pou
+creator:
+  author:
+    agent_name: Herodotus
+    aliases:
+    - Ηρόδοτος
+    - Heródoto
+    - Herodoto
+    birthdate: -484
+    deathdate: -430
+    gutenberg_agent_id: '828'
+    url: http://www.gutenberg.org/2009/agents/828
+    wikipedia: https://en.wikipedia.org/wiki/Herodotus
+description: ''
+gutenberg_issued: '2024-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72754'
+language: es
+pgterms:marc904: https://bibliotecafloridablanca.um.es/bibliotecafloridablanca/handle/11169/19487
+pgterms:marc905: 20230303072110herdoto
+pgterms:marc906: '1878'
+pgterms:marc907: ES
+production_note: Ramón Pajares Box. (This file was produced from images generously
+  made available by Biblioteca Digital Floridablanca, Fondo antiguo de la Universidad
+  de Murcia.)
+publication_note: '  $aMadrid :$bImprenta Central a cargo de Víctor Saiz, $c1878.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'History, Ancient'
+- !lcsh 'Greece -- History -- To 146 B.C.'
+- !lcc 'D'
+- GITenberg
+title: Los nueve libros de la Historia (2 de 2)
+url: http://www.gutenberg.org/ebooks/72754
